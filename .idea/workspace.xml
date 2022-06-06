@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b03d63bd-396b-43a8-94a6-06d37b642c1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACry2RdLGFnvxMvomZMcNgW4Er" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03d63bd-396b-43a8-94a6-06d37b642c1c" name="Default Changelist" comment="" />
+      <created>1654524658676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654524658676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1347" height="234" key="GridCell.Tab.0.bottom" timestamp="1654532459834">
+      <screen x="47" y="25" width="1393" height="875" />
+    </state>
+    <state width="1347" height="234" key="GridCell.Tab.0.bottom/47.25.1393.875@47.25.1393.875" timestamp="1654532459834" />
+    <state width="1347" height="234" key="GridCell.Tab.0.center" timestamp="1654532459834">
+      <screen x="47" y="25" width="1393" height="875" />
+    </state>
+    <state width="1347" height="234" key="GridCell.Tab.0.center/47.25.1393.875@47.25.1393.875" timestamp="1654532459833" />
+    <state width="1347" height="234" key="GridCell.Tab.0.left" timestamp="1654532459833">
+      <screen x="47" y="25" width="1393" height="875" />
+    </state>
+    <state width="1347" height="234" key="GridCell.Tab.0.left/47.25.1393.875@47.25.1393.875" timestamp="1654532459833" />
+    <state width="1347" height="234" key="GridCell.Tab.0.right" timestamp="1654532459834">
+      <screen x="47" y="25" width="1393" height="875" />
+    </state>
+    <state width="1347" height="234" key="GridCell.Tab.0.right/47.25.1393.875@47.25.1393.875" timestamp="1654532459834" />
+    <state x="208" y="28" width="1110" height="728" key="SettingsEditor" timestamp="1654530691963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="28" width="1110" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1654530691963" />
+    <state x="0" y="109" key="new project wizard" timestamp="1654527085154">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="109" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1654527085154" />
+    <state x="352" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1654532132485">
+      <screen x="47" y="25" width="1393" height="875" />
+    </state>
+    <state x="352" y="214" width="670" height="676" key="search.everywhere.popup/47.25.1393.875@47.25.1393.875" timestamp="1654532132485" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+</project>

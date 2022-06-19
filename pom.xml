@@ -14,7 +14,8 @@
 
     <properties>
         <tomcat8.version>3.0-r1756463</tomcat8.version>
-        <tomcat7.version>2.3-SNAPSHOT</tomcat7.version>
+        <tomcat7.version>2.2</tomcat7.version>
+        <war-plugin.version>3.3.2</war-plugin.version>
     </properties>
 
     <build>
@@ -22,37 +23,20 @@
             <plugins>
                 <plugin>
                     <groupId>org.apache.tomcat.maven</groupId>
-                    <artifactId>tomcat8-maven-plugin</artifactId>
-                    <version>${tomcat8.version}</version>
+                    <artifactId>tomcat7-maven-plugin</artifactId>
+                    <version>${tomcat7.version}</version>
+                </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-war-plugin</artifactId>
+                    <version>${war-plugin.version}</version>
+                    <!--
+                    <configuration>
+                        <webappDirectory>/sample/servlet/container/deploy/directory</webappDirectory>
+                    </configuration> -->
                 </plugin>
             </plugins>
         </pluginManagement>
     </build>
-
-    <pluginRepositories>
-
-        <pluginRepository>
-            <id>maven</id>
-            <name>Maven repository</name>
-            <url>http://repo.maven.apache.org/maven2</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </pluginRepository>
-        <pluginRepository>
-            <id>artifacts</id>
-            <name>Alfresco repository</name>
-            <url>https://artifacts.alfresco.com/nexus/content/repositories/public</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
 
 </project>
